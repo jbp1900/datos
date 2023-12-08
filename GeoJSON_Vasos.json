@@ -4511,7 +4511,8 @@
         {
             "type": "Feature",
             "properties": {
-                "IDCANAL": "C000"
+                "IDVASO": "C000",
+                "DESCVASO": ""
             },
             "geometry": {
                 "coordinates": [
@@ -4845,7 +4846,8 @@
         {
             "type": "Feature",
             "properties": {
-                "IDCANAL": "C001"
+                "IDVASO": "C001",
+                "DESCVASO": ""
             },
             "geometry": {
                 "coordinates": [
@@ -4927,7 +4929,8 @@
         {
             "type": "Feature",
             "properties": {
-                "IDCANAL": "C002"
+                "IDVASO": "C002",
+                "DESCVASO": ""
             },
             "geometry": {
                 "coordinates": [
@@ -5081,7 +5084,8 @@
         {
             "type": "Feature",
             "properties": {
-                "IDCANAL": "C003"
+                "IDVASO": "C003",
+                "DESCVASO": ""
             },
             "geometry": {
                 "coordinates": [
@@ -5163,7 +5167,8 @@
         {
             "type": "Feature",
             "properties": {
-                "IDCANAL": "C004"
+                "IDVASO": "C004",
+                "DESCVASO": ""
             },
             "geometry": {
                 "coordinates": [
@@ -5493,7 +5498,8 @@
         {
             "type": "Feature",
             "properties": {
-                "IDCANAL": "C005"
+                "IDVASO": "C005",
+                "DESCVASO": ""
             },
             "geometry": {
                 "coordinates": [
@@ -5855,7 +5861,8 @@
         {
             "type": "Feature",
             "properties": {
-                "IDCANAL": "C006"
+                "IDVASO": "C006",
+                "DESCVASO": ""
             },
             "geometry": {
                 "coordinates": [
@@ -6357,7 +6364,8 @@
         {
             "type": "Feature",
             "properties": {
-                "IDCANAL": "C007"
+                "IDVASO": "C007",
+                "DESCVASO": ""
             },
             "geometry": {
                 "coordinates": [
@@ -6531,7 +6539,8 @@
         {
             "type": "Feature",
             "properties": {
-                "IDCANAL": "C008"
+                "IDVASO": "C008",
+                "DESCVASO": ""
             },
             "geometry": {
                 "coordinates": [
@@ -6613,7 +6622,8 @@
         {
             "type": "Feature",
             "properties": {
-                "IDCANAL": "C009"
+                "IDVASO": "C009",
+                "DESCVASO": ""
             },
             "geometry": {
                 "coordinates": [
@@ -6899,7 +6909,8 @@
         {
             "type": "Feature",
             "properties": {
-                "IDCANAL": "C010"
+                "IDVASO": "C010",
+                "DESCVASO": ""
             },
             "geometry": {
                 "coordinates": [
@@ -7141,7 +7152,8 @@
         {
             "type": "Feature",
             "properties": {
-                "IDCANAL": "C011"
+                "IDVASO": "C011",
+                "DESCVASO": ""
             },
             "geometry": {
                 "coordinates": [
@@ -7291,7 +7303,8 @@
         {
             "type": "Feature",
             "properties": {
-                "IDCANAL": "C012"
+                "IDVASO": "C012",
+                "DESCVASO": ""
             },
             "geometry": {
                 "coordinates": [
@@ -7345,7 +7358,8 @@
         {
             "type": "Feature",
             "properties": {
-                "IDCANAL": "C013"
+                "IDVASO": "C013",
+                "DESCVASO": ""
             },
             "geometry": {
                 "coordinates": [
@@ -7431,7 +7445,8 @@
         {
             "type": "Feature",
             "properties": {
-                "IDCANAL": "C014"
+                "IDVASO": "C014",
+                "DESCVASO": ""
             },
             "geometry": {
                 "coordinates": [
@@ -7485,7 +7500,8 @@
         {
             "type": "Feature",
             "properties": {
-                "IDCANAL": "C015"
+                "IDVASO": "C015",
+                "DESCVASO": ""
             },
             "geometry": {
                 "coordinates": [
@@ -7607,7 +7623,8 @@
         {
             "type": "Feature",
             "properties": {
-                "IDCANAL": "C016"
+                "IDVASO": "C016",
+                "DESCVASO": ""
             },
             "geometry": {
                 "coordinates": [
@@ -7793,7 +7810,8 @@
         {
             "type": "Feature",
             "properties": {
-                "IDCANAL": "C017"
+                "IDVASO": "C017",
+                "DESCVASO": ""
             },
             "geometry": {
                 "coordinates": [
@@ -7879,7 +7897,8 @@
         {
             "type": "Feature",
             "properties": {
-                "IDCANAL": "C018"
+                "IDVASO": "C018",
+                "DESCVASO": ""
             },
             "geometry": {
                 "coordinates": [
@@ -7949,7 +7968,8 @@
         {
             "type": "Feature",
             "properties": {
-                "IDCANAL": "C019"
+                "IDVASO": "C019",
+                "DESCVASO": ""
             },
             "geometry": {
                 "coordinates": [
@@ -8031,7 +8051,8 @@
         {
             "type": "Feature",
             "properties": {
-                "IDCANAL": "C020"
+                "IDVASO": "C020",
+                "DESCVASO": ""
             },
             "geometry": {
                 "coordinates": [
@@ -8073,7 +8094,8 @@
         {
             "type": "Feature",
             "properties": {
-                "IDCANAL": "C021"
+                "IDVASO": "C021",
+                "DESCVASO": ""
             },
             "geometry": {
                 "coordinates": [
@@ -8123,7 +8145,8 @@
         {
             "type": "Feature",
             "properties": {
-                "IDCANAL": "C022"
+                "IDVASO": "C022",
+                "DESCVASO": ""
             },
             "geometry": {
                 "coordinates": [
@@ -8201,7 +8224,8 @@
         {
             "type": "Feature",
             "properties": {
-                "IDCANAL": "C023"
+                "IDVASO": "C023",
+                "DESCVASO": ""
             },
             "geometry": {
                 "coordinates": [
@@ -8287,7 +8311,8 @@
         {
             "type": "Feature",
             "properties": {
-                "IDCANAL": "C024"
+                "IDVASO": "C024",
+                "DESCVASO": ""
             },
             "geometry": {
                 "coordinates": [
@@ -8337,7 +8362,8 @@
         {
             "type": "Feature",
             "properties": {
-                "IDCANAL": "C025"
+                "IDVASO": "C025",
+                "DESCVASO": ""
             },
             "geometry": {
                 "coordinates": [
@@ -8431,7 +8457,8 @@
         {
             "type": "Feature",
             "properties": {
-                "IDCANAL": "C026"
+                "IDVASO": "C026",
+                "DESCVASO": ""
             },
             "geometry": {
                 "coordinates": [
@@ -8489,7 +8516,8 @@
         {
             "type": "Feature",
             "properties": {
-                "IDCANAL": "C027"
+                "IDVASO": "C027",
+                "DESCVASO": ""
             },
             "geometry": {
                 "coordinates": [
@@ -8559,7 +8587,8 @@
         {
             "type": "Feature",
             "properties": {
-                "IDCANAL": "C028"
+                "IDVASO": "C028",
+                "DESCVASO": ""
             },
             "geometry": {
                 "coordinates": [
@@ -8621,7 +8650,8 @@
         {
             "type": "Feature",
             "properties": {
-                "IDCANAL": "C029"
+                "IDVASO": "C029",
+                "DESCVASO": ""
             },
             "geometry": {
                 "coordinates": [
@@ -8695,7 +8725,8 @@
         {
             "type": "Feature",
             "properties": {
-                "IDCANAL": "C030"
+                "IDVASO": "C030",
+                "DESCVASO": ""
             },
             "geometry": {
                 "coordinates": [
@@ -8773,7 +8804,8 @@
         {
             "type": "Feature",
             "properties": {
-                "IDCANAL": "C031"
+                "IDVASO": "C031",
+                "DESCVASO": ""
             },
             "geometry": {
                 "coordinates": [
@@ -8867,7 +8899,8 @@
         {
             "type": "Feature",
             "properties": {
-                "IDCANAL": "C032"
+                "IDVASO": "C032",
+                "DESCVASO": ""
             },
             "geometry": {
                 "coordinates": [
@@ -8933,7 +8966,8 @@
         {
             "type": "Feature",
             "properties": {
-                "IDCANAL": "C033"
+                "IDVASO": "C033",
+                "DESCVASO": ""
             },
             "geometry": {
                 "coordinates": [
@@ -9007,7 +9041,8 @@
         {
             "type": "Feature",
             "properties": {
-                "IDCANAL": "C034"
+                "IDVASO": "C034",
+                "DESCVASO": ""
             },
             "geometry": {
                 "coordinates": [
